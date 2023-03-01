@@ -1,3 +1,6 @@
+Meta Coding puzzle (Solved 28.02.2023)
+https://www.metacareers.com/profile/coding_puzzles/?puzzle=203188678289677&source=careers%3A%2Fresume%2Fresponse%2F
+
 A cafeteria table has N seats numbered from 1 to N from left to right. 
 Social distancing guidelines require that every diner be seated such that K seats to their left and K seats to their right 
 (or all the remaining seats to that side if there are fewer than K) remain empty.
